@@ -18,10 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create Azure Virtual Machine Windows 10, 4vCPUs
-- Install/Enable IIS in Windows with CGI and Common HTTP Features, and IIS Management Console
-- Item 3
-- Item 4
-- Item 5
+- Install/Enable IIS in Windows with CGI and Common HTTP Features
+- Install PHP manager for IIS
+- Install additional applications : Rewrite Module, VC Redist, and MySQL 
+- Install and configure osTicket
+- Install Heidi SQL to complete osTicket installation
 
 <h2>Installation Steps</h2>
 
